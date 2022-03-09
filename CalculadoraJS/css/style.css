@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(207, 207, 207);
+}
+
+.contenedor{
+    margin: 25vh 25vw;
+    padding: 50px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.btn{
+    width: 100%;
+}
